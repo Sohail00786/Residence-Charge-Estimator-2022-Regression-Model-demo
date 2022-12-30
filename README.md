@@ -16,17 +16,12 @@
 
 - The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
-## Requirements:
-- Python 3+
-- Jupyter Notebook
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Sklearn
-- Xgboost
+## Step - 1 Install the Requirements
+```bash
+pip install -r requirements.txt
+```
 
-## Run app.py file
+## Step - 2 Run app.py file
 ```bash
 python app.py
 ```
