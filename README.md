@@ -26,3 +26,6 @@
 - Sklearn
 - Xgboost
 
+## Run app.py file
+'python app.py'
+
