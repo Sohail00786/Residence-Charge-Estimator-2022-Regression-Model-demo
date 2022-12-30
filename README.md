@@ -8,5 +8,6 @@
 - Designed a Machine Learning Regression Model which is focused on charge of residence
 
 - Main aim of this estimator is to display residence charge based on city, locality and residence features.
+## Web Application
 ![Logo](https://github.com/Sohail00786/Residence-Charge-Estimator-2022-Regression-Model/blob/4dffb0d7ea95c45785ce125cb4635b6058b28d92/ezgif.com-gif-maker.gif)
 
