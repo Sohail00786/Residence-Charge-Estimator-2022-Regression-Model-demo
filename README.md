@@ -27,5 +27,9 @@
 - Xgboost
 
 ## Run app.py file
-'python app.py'
+```bash
+14
+python app.py
+15
+```
 
