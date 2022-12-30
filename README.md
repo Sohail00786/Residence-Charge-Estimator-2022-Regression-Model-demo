@@ -28,8 +28,6 @@
 
 ## Run app.py file
 ```bash
-14
 python app.py
-15
 ```
 
